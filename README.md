@@ -33,7 +33,7 @@ SDKs that help you explore new horizons of game development across different pla
 
 Entity Component Systems created by the community.
 
-* [AdaEngine ECS](https://github.com/AdaEngine/AdaEngine) – - the ECS used in AdaEngine.
+* [AdaEngine ECS](https://github.com/AdaEngine/AdaEngine) – the ECS used in AdaEngine.
 * [Fireblade ECS](https://github.com/fireblade-engine/ecs) – A dependency free, lightweight, fast Entity-Component System (ECS) implementation in Swift
 
 ### 🧮 Math
@@ -54,7 +54,7 @@ UI frameworks and libraries that can be useful for game interfaces.
 
 Utilities that help you create your own game from scratch.
 
-* * [SwiftSDL](https://github.com/ctreffs/SwiftSDL2) – Swift wrapper around Simple Direct Media Layer (SDL2) for macOS, iOS, Linux and Windows
+* [SwiftSDL](https://github.com/ctreffs/SwiftSDL2) – Swift wrapper around Simple Direct Media Layer (SDL2) for macOS, iOS, Linux and Windows
 * [Swift Bundler](https://github.com/stackotter/swift-bundler) – An Xcodeproj-less tool for creating cross-platform Swift apps.
 
 # 👾 Games and Demos
