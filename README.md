@@ -55,6 +55,12 @@ UI frameworks and libraries that can be useful for game interfaces.
 
 * [Swift ImGui](https://github.com/ctreffs/SwiftImGui) – Swift wrapper around Dear imgui for macOS, iOS, Linux and Windows
 
+### 🎯 Scripting Languages
+
+Scripting languages embeddable in a Swift game
+
+* [Gravity Swift](https://github.com/AdaEngine/gravity-lang) – Gravity Programming Language with Swift bindings.
+
 ### 🧰 Utils
 
 Utilities that help you create your own game from scratch.
