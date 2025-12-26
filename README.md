@@ -34,6 +34,7 @@ SDKs that help you explore new horizons of game development across different pla
 Entity Component Systems created by the community.
 
 * [AdaEngine ECS](https://github.com/AdaEngine/AdaEngine) – the ECS used in AdaEngine.
+* [ecs-swift](https://github.com/rrbox/ecs-swift/) – Entity Component System for swift inspired by Bevy.
 * [Fireblade ECS](https://github.com/fireblade-engine/ecs) – A dependency free, lightweight, fast Entity-Component System (ECS) implementation in Swift
 
 ### 🧮 Math
