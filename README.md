@@ -1,9 +1,13 @@
-# Overview
+# Swift in Game Development
+
+[![AdaEngine](media/swift_in_gamedev.png)](https://adaengine.org)
+
+## Overview
 
 The AdaEngine Team has found many great Swift projects that can be used in your game or serve as a great starting point for learning. We believe these awesome treasures should be shared.
 
 
-# Projects
+## Projects
 
 ### 🛠️ Game Engines 
 
